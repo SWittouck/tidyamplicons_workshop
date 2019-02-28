@@ -6,10 +6,7 @@ You can find the slides over [here](https://docs.google.com/presentation/d/1cr2D
 
 ## Requirements
 
-Before the workshop, make sure you install R and RStudio:
-
-* [R](https://www.freestatistics.org/cran/)
-* [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+Before the workshop, make sure you installed [R](https://www.freestatistics.org/cran/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download).
 
 To install the tidyverse and tidyamplicons, run the following R code:
 
