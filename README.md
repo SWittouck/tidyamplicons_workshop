@@ -13,5 +13,5 @@ To install the tidyverse and tidyamplicons, run the following R code:
 ```{R}
 install.packages("tidyverse")
 install.packages("devtools")
-devtools::install_github("swittouck/tidyamplicons", ref = "development")
+devtools::install_github("swittouck/tidyamplicons", ref = "v0.2.0")
 ```
