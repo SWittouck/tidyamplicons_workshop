@@ -28,7 +28,7 @@ ggplot(samples, aes(x = nationality, y = age, fill = nationality)) +
 # 6. previous + points
 ggplot(samples, aes(x = nationality, y = age, fill = nationality)) +
   geom_boxplot() +
-  geom_jitter(col = "grey", alpha = 0.5) + 
+  geom_jitter(col = "grey", alpha = 0.5, height = 0) + 
   scale_fill_brewer(palette = "Paired") +
   theme_bw()
 
